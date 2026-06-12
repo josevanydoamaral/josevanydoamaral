@@ -17,7 +17,7 @@ I’m deeply focused on mastering **clean architecture, modern concurrency (asyn
   <a href="https://github.com/josevanydoamaral">
     <img src="https://img.shields.io/badge/GitHub-JOSEVANYDOAMARAL-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="www.linkedin.com/in/josevany-do-amaral">
+  <a href="https://linkedin.com/in/josevany-do-amaral">
     <img src="https://img.shields.io/badge/LinkedIn-JOSEVANYAMARAL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
