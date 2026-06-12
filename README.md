@@ -17,7 +17,7 @@ I’m deeply focused on mastering **clean architecture, modern concurrency (asyn
   <a href="https://github.com/josevanydoamaral">
     <img src="https://img.shields.io/badge/GitHub-JOSEVANYDOAMARAL-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/josevany-do-amaral">
+  <a href="https://linkedin.com/in/josevany-do-amaral" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-JOSEVANYAMARAL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -29,7 +29,6 @@ I’m deeply focused on mastering **clean architecture, modern concurrency (asyn
 - 🌐 **Network Automation & Digital Twins:** Developing emulation solutions using Docker and ContainerLab on Linux, alongside SDN Traffic Engineering via ONOS.
 
 - 🏗️ **Full-Stack Mobile & Web Development:** Building scalable applications leveraging Swift, JavaScript, TypeScript, React, and C# with ASP.NET.
-
 
 - 🧪 **Systems Reliability & Testing:** Ensuring backend software stability and components health through automated testing.
 
