@@ -24,16 +24,6 @@ I’m deeply focused on mastering **clean architecture, modern concurrency (asyn
 
 ---
 
-## 🧠 What I do
-
-- 🌐 **Network Automation & Digital Twins:** Developing emulation solutions using Docker and ContainerLab on Linux, alongside SDN Traffic Engineering via ONOS.
-
-- 🏗️ **Full-Stack Mobile & Web Development:** Building scalable applications leveraging Swift, JavaScript, TypeScript, React, and C# with ASP.NET.
-
-- 🧪 **Systems Reliability & Testing:** Ensuring backend software stability and components health through automated testing.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
