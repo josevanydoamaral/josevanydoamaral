@@ -74,8 +74,8 @@ I’m deeply focused on mastering **clean architecture, modern concurrency (asyn
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josevanydoamaral&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevanydoamaral&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josevanydoamaral&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevanydoamaral&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
